@@ -1,0 +1,304 @@
+@media screen and (max-width: 1920px) {
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    max-width: 1024px;
+    height: 110px;
+  }
+
+  .header_foto {
+    margin-left: 24px;
+    height: 60px;
+  }
+
+  .header_link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    margin-left: 35px;
+    margin-right: 35px;
+  }
+
+  .main {
+    max-width: 1024px;
+  }
+
+  .main_first {
+    max-width: 1024px;
+    height: 709px;
+    position: relative;
+  }
+
+  .main_first_block_sp {
+    display: block;
+    width: 430px;
+    font-weight: 500;
+    font-size: 31px;
+    line-height: 33px;
+    letter-spacing: 0.03em;
+    margin-bottom: 14px;
+  }
+
+  .main_first_block_text {
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.03em;
+    margin-bottom: 41px;
+  }
+
+  .main_first_block_buttom {
+    padding: 12px 20px;
+  }
+
+  .main_second {
+    height: 460px;
+    max-width: 1024px;
+    position: relative;
+  }
+
+  .main_second_wrapper_span {
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 29px;
+  }
+
+  .main_second_wrapper_text {
+    width: 300px;
+    font-weight: 200;
+    font-size: 12px;
+  }
+
+  .main_second_buttom {
+    margin-top: -50px;
+    margin-right: -100px;
+    font-weight: 400;
+    font-size: 18px;
+    padding: 12px 20px;
+  }
+
+  .main_third {
+    position: relative;
+    max-width: 1024px;
+    height: 1240px;
+  }
+
+  .main_third_block_foto {
+    width: 100%;
+  }
+
+  .main_third_wrapper {
+    position: absolute;
+    top: 30px;
+  }
+
+  .main_third_wrapper_span {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  .main_third_div_span {
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 20px;
+    letter-spacing: 0.03em;
+  }
+
+  .main_third_div_text {
+    width: 310px;
+    font-weight: 200;
+    font-size: 13px;
+    line-height: 20px;
+    letter-spacing: 0.03em;
+  }
+
+  .son {
+    margin-right: 114px;
+  }
+
+  .footer {
+    height: 245px;
+    max-width: 1024px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .main_second_wrapper {
+    position: absolute;
+    top: 116px;
+    margin-left: 267px;
+  }
+  .main_second p {
+    width: 393px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 29px;
+    letter-spacing: 0.03em;
+    margin-top: 26px;
+    color: #ffffff;
+  }
+  .main_second button {
+    border: none;
+    position: absolute;
+    top: 395px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    right: 486px;
+    padding: 16px 30px;
+    background-color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: #990000;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0 6px 0 #990000;
+  }
+  .main_second_wrapper {
+    position: absolute;
+    top: 127px;
+    margin-left: 275px;
+  }
+  .main_third p {
+    width: 295px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: #000000;
+    font-size: 18px;
+    line-height: 29px;
+    letter-spacing: 0.03em;
+  }
+}
+@media screen and (max-width: 768px) {
+  .main_first_block span {
+    display: block;
+    width: 509px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: #000000;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    letter-spacing: 0.03em;
+    margin-bottom: 17px;
+  }
+  .main_second div {
+    position: absolute;
+    top: 93px;
+    margin-left: 227px;
+  }
+  .main_second button {
+    border: none;
+    position: absolute;
+    top: 378px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    right: 400px;
+    padding: 16px 30px;
+    background-color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: #990000;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0 6px 0 #990000;
+  }
+  .main_third p {
+    width: 180px;
+    font-weight: 500;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: #000000;
+    font-size: 18px;
+    line-height: 29px;
+    letter-spacing: 0.03em;
+  }
+  .main_third_block_foto {
+    width: 740px;
+  }
+}
+@media screen and (max-width: 540px) {
+  .header img {
+    margin-left: 70px;
+    color: #e5e5e5;
+  }
+  .main_first div {
+    position: absolute;
+    margin-left: 91px;
+    margin-top: 215px;
+  }
+  .main_first span {
+    display: block;
+    width: 487px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: #000000;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    letter-spacing: 0.03em;
+    margin-bottom: 17px;
+  }
+  .main_second button {
+    border: none;
+    position: absolute;
+    top: 377px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    right: 244px;
+    padding: 16px 30px;
+    background-color: #ffffff;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: #990000;
+    letter-spacing: 0.03em;
+    cursor: pointer;
+    transition: 0.5s;
+    box-shadow: 0 6px 0 #990000;
+  }
+  .main_second div {
+    position: absolute;
+    top: 93px;
+    margin-left: 128px;
+  }
+}
+@media screen and (max-width: 425px) {
+  .main_first span {
+    display: block;
+    width: 331px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+      Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
+      sans-serif;
+    color: #000000;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    letter-spacing: 0.03em;
+    margin-bottom: 17px;
+  }
+  .main_second p {
+    width: 170px;
+  }
+
+  .main_third_wrapper span {
+    margin-top: -56px;
+  }
+  .main_third_div_son div {
+    margin-right: 48px;
+  }
+}
